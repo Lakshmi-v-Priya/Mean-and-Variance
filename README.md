@@ -51,9 +51,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-NAME : Lakshmi Priya .V
-REG NO: 212223220049
-
 ![Screenshot 2024-03-29 192020](https://github.com/Lakshmi-v-Priya/Mean-and-Variance/assets/151720706/2b103169-74b2-4115-ad07-6a40f4879984)
 
 # Output : 
