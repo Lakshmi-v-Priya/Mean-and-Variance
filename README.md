@@ -1,3 +1,6 @@
+                                                                    NAME : Lakshmi Priya .V
+                                                                    REG NO: 212223220049
+
 #  Mean and variance of a discrete  distribution
 
 
